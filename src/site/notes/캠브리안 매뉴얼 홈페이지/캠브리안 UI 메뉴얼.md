@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ui/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/캠브리안 매뉴얼 홈페이지/캠브리안 UI 메뉴얼/","tags":["gardenEntry"]}
 ---
 
 
