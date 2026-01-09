@@ -26,7 +26,7 @@ Cambrian VISION은 사용하려는 부품에 맞는 학습된 AI 모델 파일�
 
 ![files/캠브리안 UI 메뉴얼/image-1.png](/img/user/files/%EC%BA%A0%EB%B8%8C%EB%A6%AC%EC%95%88%20UI%20%EB%A9%94%EB%89%B4%EC%96%BC/image-1.png)
 
-> [!warning] 주의사항
+> [!WARNING] 주의사항
 > - 파일이 반드시 Cambrian PC로 완전히 복사되었는지 확인하세요.
 > - USB 드라이브에서 직접 설치하는 것은 지원되지 않습니다.
 > - 파일 이름에 번호가 매겨진 확장자가 포함되어 있는지 확인하세요
@@ -162,7 +162,7 @@ Cambrian Vision은 이 문제를 해결하기 위해 "reachability" 테스트 �
 	- 컴포넌트의 방향이나 위치가 변경될 때마다 테스트가 자동으로 재실행됩니다.
 	- 테스트 실행 시 TCP 편집기가 표시되면, 이 도구를 통해 장치의 TCP(Tool Center Point)를 정의하여 실제 작업 환경을 반영한 테스트가 가능합니다.
 
->[!tip] 참고 사항
+>[!TIP] 참고 사항
 >- <font color="#d83931">빨간색 점</font>은 플랜지 구성 요소, 카메라 리그, 로봇 암과 월드 컴포너는 간의 잠재적 충돌을 나타냅니다.
 >- 실제 작동 시 도달 불가능한 예측 위치는 필터링되므로, 이 테스트를 통해 예측 가능 영역을 최대화하는 것이 중요합니다.
 
@@ -415,7 +415,7 @@ Cambrian VISION 2.0에서는 두 가지 모델 유형을 지원합니다.
 - RX°(float) : X축(좌우 축, 카메라 이미지 기준) 주위의 "Alpha" 회전 각도
 - RY°(float) : Y축(상하 축, 카메라 이미지 기준) 주위의 "Beta" 회전 각도
 - RZ°(float) : Z축(이미지 안쪽 방향) 주위의 "Gamma" 회전 각도
->[!tip] 참고
+>[!TIP] 참고
 >Alpha, Beta, Gamma는 오일러 각이며, 회전 순서는 ZXY입니다.
 >부품의 x-y 값은 네모 박스의 중심 좌표이며, 시스템은 이를 로봇 월드의 x,y좌표로 변환합니다.
 
@@ -480,8 +480,7 @@ Cambrian Vision UI에서 자주 사용하는 작업을 빠르게 수행할 수 �
 
 # Demonstration Videos(데모 영상)
 
-<video controls width="100%"> <source src="/img/user/files/%EC%BA%A0%EB%B8%8C%EB%A6%AC%EC%95%88%20UI%20%EB%A9%94%EB%89%B4%EC%96%BC/Fullpose_demo.mp4" type="video/mp4"> 죄송합니다. 귀하의 브라우저는 비디오 태그를 지원하지 않습니다. </video>
----
+<video controls width="100%"> <source src="/img/user/files/%EC%BA%A0%EB%B8%8C%EB%A6%AC%EC%95%88%20UI%20%EB%A9%94%EB%89%B4%EC%96%BC/Fullpose_demo.mp4" type="video/mp4"> 죄송합니다. 귀하의 브라우저는 비디오 태그를 지원하지 않습니다. </video>---
 # Updating the Cambrian VISION Software(소프트웨어 업데이트)
 
 Cambrian VISION의 새로운 버전은 [Software Downlads](https://documentation.cambrianrobotics.ai/en/cambrian-vision-system/latest/software-downloads) 페이지에서 다운로드할 수 있습니다.
