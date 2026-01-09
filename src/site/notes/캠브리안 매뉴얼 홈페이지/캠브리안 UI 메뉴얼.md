@@ -480,7 +480,7 @@ Cambrian Vision UI에서 자주 사용하는 작업을 빠르게 수행할 수 �
 
 # Demonstration Videos(데모 영상)
 
-<video controls width="100%"> <source src="files/캠브리안 UI 메뉴얼/Fullpose_demo.mp4" type="video/mp4"> 죄송합니다. 귀하의 브라우저는 비디오 태그를 지원하지 않습니다. </video>
+<video controls width="100%"> <source src="/img/user/files/%EC%BA%A0%EB%B8%8C%EB%A6%AC%EC%95%88%20UI%20%EB%A9%94%EB%89%B4%EC%96%BC/Fullpose_demo.mp4" type="video/mp4"> 죄송합니다. 귀하의 브라우저는 비디오 태그를 지원하지 않습니다. </video>
 ---
 # Updating the Cambrian VISION Software(소프트웨어 업데이트)
 
